@@ -1,0 +1,25 @@
+认可传感器测量值
+GaugeMode : 1
+ImageID:1596096918330
+Diameter:28.7
+LongDiameter:30.11
+SlopeAngle:1.3
+SensorDist:518.25
+
+
+不认可传感器测量值（需重新测量）
+GaugeMode : 0
+ImageID:1596096918330
+Diameter:0
+LongDiameter:0
+SlopeAngle:0
+SensorDist:0
+
+
+人工输入模式（多次测量均失败的情况下）
+GaugeMode : 2
+ImageID:1596096918330
+Diameter:人工输入值
+LongDiameter:0
+SlopeAngle:0
+SensorDist:0
